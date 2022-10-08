@@ -1,0 +1,6 @@
+{!!DNS2D::getBarcodeHTML('4445645656','QRCODE')!!}
+{!!DNS1D::getBarcodeHTML('4445645656','PHARMA')!!}
+{!!DNS1D::getBarcodeHTML('4445645656','PHARMA21')!!}
+{!!DNS1D::getBarcodeHTML('4445645656','KIX')!!}
+{!!DNS2D::getBarcodeHTML('4445645656','RMS4CC')!!}
+{!!DNS2D::getBarcodeHTML('4445645656','UPCA')!!}
